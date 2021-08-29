@@ -8,7 +8,7 @@ This site is for scientists and park ranger to use to track these bears.
 https://www.loom.com/share/f933eee70c6c4285b2c56de44ff7f47a
 
 ## Relevant Links <!-- Link to all the things that are required outside of the ones that have their own section -->
-- [Check out the deployed site](#your-link)
+- [Check out the deployed site](bar-watcher-hld.netlify.app)
 - [Project Board](https://www.figma.com/file/pRb4XS3QOitRVCjqlDgFmu/Bear-Watcher?node-id=0%3A1)
 
 ## Code Snippet <!-- OPTIONAL, but doesn't hurt -->
