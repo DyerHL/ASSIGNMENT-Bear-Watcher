@@ -2,8 +2,48 @@
 @import "~@fortawesome/fontawesome-free/css/all.min.css";
 
 body {
-  background-color: antiquewhite;
-  color: brown;
+  background-color: #8F9D55;
+  color: #432D0B;
   text-align: center;
   margin-top: 100px;
+}
+.header {
+  margin-top: -100px;
+  position: relative;
+  text-align: center;
+  color: white
+}
+.headerText{
+  position: absolute;
+  margin: 0px;
+  top: 140px;
+  width: 100%;
+  transform: 50%;
+
+}
+.formStyles{
+  padding: 15px;
+  position: absolute;
+  background-color: #8F9D55;
+  top: 350px;
+  width: 100%
+}
+.form-label {
+  text-align: left;
+}
+.bodyStyles{
+  margin-top: 100px;
+}
+.cardContainerStyles {
+  margin-bottom: 10px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.card {
+  margin: 10px;
+}
+.btn{
+  background-color: #64A37D;
+  
 }
